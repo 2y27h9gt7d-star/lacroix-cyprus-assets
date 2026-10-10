@@ -13,6 +13,6 @@ can fetch them by URL.
 | `photography/` | NBC lifestyle and product photography, resized to max 2400 px. |
 | `social-legacy/` | Earlier Cyprus social posts (reference only). |
 
-Known gaps: Black Razzberry can has no transparent version yet; Pineapple Coconut can not yet added.
+Known gaps: Pineapple Coconut can not yet added.
 
 Raw URL pattern: `https://raw.githubusercontent.com/2y27h9gt7d-star/lacroix-cyprus-assets/main/<folder>/<file>`
