@@ -12,7 +12,8 @@ can fetch them by URL.
 | `product-tiles/` | Square product images on white (1200×1200). |
 | `photography/` | NBC lifestyle and product photography, resized to max 2400 px. |
 | `social-legacy/` | Earlier Cyprus social posts (reference only). |
+| `web/` | Compressed WebP images used by lacroixcyprus.com (served via jsDelivr). Cans 280 px tall, gallery/recipes 700 px wide, hero 1920 px plus 608×1080 mobile crops. |
 
-Known gaps: Pineapple Coconut can not yet added.
+Known gaps: none for cans (Pineapple Coconut added 2026-10-10). No Pineapple Coconut emoji illustration yet.
 
 Raw URL pattern: `https://raw.githubusercontent.com/2y27h9gt7d-star/lacroix-cyprus-assets/main/<folder>/<file>`
